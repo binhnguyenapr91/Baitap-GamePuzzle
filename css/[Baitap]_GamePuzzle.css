@@ -1,0 +1,28 @@
+.container{
+    width: 800px;
+    height: 160px;
+    margin: auto;
+}
+.partImage{
+    box-shadow: 2px 2px 3px red;
+}
+#part1{
+    width: 800px;
+    height: 160px;
+}
+#part2{
+    width: 800px;
+    height: 160px;
+}
+#part3{
+    width: 800px;
+    height: 160px;
+}
+#part4{
+    width: 800px;
+    height: 160px;
+}
+#part5{
+    width: 800px;
+    height: 160px;
+}
